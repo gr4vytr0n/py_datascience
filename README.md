@@ -53,3 +53,43 @@ Interpreting Results
 - Investigate values of analysis
 - Graphs
 
+Question and Data
+- Build process around building Data Science process
+- Data Engineering and Computational Data Science
+- Acquire -> prepare -> analyze -> report -> act
+- Scalability
+
+Asking the Right Questions
+- Define the problem
+- Assess the Situation
+    - Risks
+    - Benefits
+    - Contingencies
+    - Regulations
+    - Resources
+    - Requirements
+
+Define Goals
+- Objectives
+- Criteria
+
+Steps in Data Science Process -- Iterative Process
+Step 1: Acquire Data
+    - identify data sets
+    - retrieve data
+    - query data
+Step 2-A: Prepare Data
+    - Understand nature of data
+    - Preliminary analysis
+Step 2-B: Pre-process Data
+    - clean
+    - integrate
+    - package
+Step 3: Analyze Data
+    - Select analytical techniques
+    - Build Models
+Step 4: Communicate Results
+    - Reports
+    - Visualizations
+Step 5: Apply Results
+
