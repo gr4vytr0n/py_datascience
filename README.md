@@ -74,22 +74,22 @@ Define Goals
 - Criteria
 
 Steps in Data Science Process -- Iterative Process
-Step 1: Acquire Data
+* Step 1: Acquire Data
     - identify data sets
     - retrieve data
     - query data
-Step 2-A: Prepare Data
+* Step 2-A: Prepare Data
     - Understand nature of data
     - Preliminary analysis
-Step 2-B: Pre-process Data
+* Step 2-B: Pre-process Data
     - clean
     - integrate
     - package
-Step 3: Analyze Data
+* Step 3: Analyze Data
     - Select analytical techniques
     - Build Models
-Step 4: Communicate Results
+* Step 4: Communicate Results
     - Reports
     - Visualizations
-Step 5: Apply Results
+* Step 5: Apply Results
 
